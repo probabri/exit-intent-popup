@@ -15,7 +15,7 @@ window.bioEp = {
 	fonts: [],
 	delay: 5,
 	showOnDelay: false,
-	cookieExp: 30,
+	cookieExp: 0,
 	showOncePerSession: false,
 	onPopup: null,
 	
